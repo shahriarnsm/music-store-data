@@ -1,0 +1,1 @@
+o	Designed and executed SQL queries to analyze key performance indicators (KPIs) for a digital music store. Utilized MySQL to extract insights on customer behaviour, sales trends, top-selling artists, and revenue distribution. 
